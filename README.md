@@ -1,23 +1,30 @@
-- 👋 Hi, I’m Vaishnavi Chevale
+<h1 align="center">Hi 👋, I'm Vaishanvi Chevale</h1>
+<h3 align="center">🌍I'm based in pune, India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi890&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi890" /> </p>
+
+- 🌱 I’m currently learning **Java Full Stack Development**
+
+- 😊I’m looking to collaborate on **java project**
+
+- 👨‍💻 All of my projects are available at [https://www.naukri.com/mnjuser/homepage](https://www.naukri.com/mnjuser/homepage)
+
+- 💬 Ask me about **C, C++, Java, HTML**
+
+- 📫 How to reach me **vaishanvichewale@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-chevale-53598b271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaishnavi-chevale-53598b271/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi890&show_icons=true&locale=en&layout=compact" alt="vaishnavi890" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavi890&show_icons=true&locale=en" alt="vaishnavi890" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi890&" alt="vaishnavi890" /></p>
+
    
-Java Full Stack Developer
-
-🚀 Committed to designing scalable and high-performing applications with deep expertise in Java and J2EE technologies.
-💡 Specialized in Core Java, Spring Boot, Spring Data JPA, Spring Security, and RESTful Web Services, ensuring robust and secure software solutions.
-⚙️ Proficient in MySQL for efficient database management and leveraging Git/GitHub for seamless version control and collaboration.
-📚 Strong command of data structures and algorithms, focusing on performance optimization and exploring cutting-edge microservices architectures.
-📊 Advocating Agile methodologies with tools like JIRA, delivering high-quality software through iterative development.
-💻 Passionate about the evolving interplay of AI and large language models, constantly pushing boundaries to innovate and solve real-world challenges.
-✨ Dive into my repositories to see how I transform ideas into impactful projects. Let’s collaborate to create something exceptional
-vaishnavi890/vaishnavi890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-About Me
-
-.🌍 Pune, India is where I call home and where I fuel my passion for technology.
-.👀 Obsessed with software development, particularly crafting solutions that make life simpler.
-.🌱 Learning and growing every day with Java and full-stack web development.
-.💞️ Open to collaboration on Java-based projects and always eager to learn from others.
-.📫 Let’s connect on LinkedIn.
-.⚡ Fun fact: The best part of coding? Fixing bugs feels like winning a mini-battle every time! 🏆
-
