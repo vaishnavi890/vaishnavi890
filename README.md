@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaishanvi Chevale</h1>
-<h3 align="center">🌍I'm based in pune, India</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi890&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi890" /> </p>
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 
-- 😊I’m looking to collaborate on **java project**
+- 😊 I’m looking to collaborate on **java project**
 
 - 👨‍💻 All of my projects are available at [https://www.naukri.com/mnjuser/homepage](https://www.naukri.com/mnjuser/homepage)
 
@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi890&" alt="vaishnavi890" /></p>
 
-   
